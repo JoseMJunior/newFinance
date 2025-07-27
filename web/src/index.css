@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+    --default-font-family: "Aldrich", sans-serif;
+
+    --color-gray-100: #1E2939;
+    --color-gray-200: #6A7282;
+    --color-gray-300: #99A1AF;
+    --color-gray-400: #D1D5DC; 
+    --color-gray-500: #ffffff; 
+
+    --color-blue-100: #0077b6;
+    --color-blue-200: #339ACC;
+
+    --text-xxs: 0.625rem;
+}
